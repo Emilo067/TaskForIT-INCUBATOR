@@ -1,2 +1,2 @@
-SELECT custid,custname,custstate
+SELECT custid, custname, custstate
 FROM customers
