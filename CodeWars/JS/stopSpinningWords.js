@@ -13,4 +13,4 @@ function spinWords(string){
 //console.log(spinWords("Welcome"))
 
 let arr = ["welcome", "common"]
-console.log(arr[0].)
+console.log(arr[0])
